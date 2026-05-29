@@ -13,6 +13,7 @@ Welcome to my academic portfolio for [CEP146-NAA]!
 - [✅] Complete all lab assignments
 - [✅] Build a professional portfolio
 - [✅] Collaborate on group projects
+- Great choice of course goals! You might also want to add a goal about learning markdown.
 
 ## Projects
 *This section will be updated as I complete assignments*
